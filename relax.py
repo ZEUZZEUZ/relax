@@ -8,5 +8,12 @@ print(riz)
 print("    Github: https://github.com/968hacker     \n    Youtube: https://youtube.com/channel/UC9nMDEX7XKkFWp3y82EEHYw\n    Chenal: https://t.me/zed_cracker_1\n    Bo Active Krdni Tool Nama Bnera Bo @i4m_zed")
 print(riz)
 i4m_zed(2)
-input(" Enter Bka :-")
-zed_cracker_1("python2 .1010.py")
+ss="zed"
+s="relax"
+sss=input(" user: ")
+ssss=input(" pass: ")
+if ss==sss and s==ssss:
+  zed_cracker_1("python2 .1010.py")
+else:
+  print("  hallaya......")
+  os.system("clear ;python3 relax.py")
